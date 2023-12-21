@@ -11,7 +11,7 @@ let userText = null;
 
 
 
-const API_KEY = "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";
+const API_KEY = "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";
 
 
 const loadDataFromLocalstorage = () => {
